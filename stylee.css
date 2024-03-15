@@ -1,0 +1,61 @@
+
+
+.logo-text-design
+{
+    font-weight:bold;
+    color:blanchedalmond;
+    font-size:30px;
+}
+
+.header_bg
+{
+    background-color:darkblue;
+}
+
+.hyperlink_design
+{
+    text-decoration: none;
+    color:yellow;
+    font-size:20px;
+}
+
+.col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11
+{
+	padding:20px 30px;
+}
+
+
+.hyperlink_design:hover
+{
+    font-weight: bold;
+    color:brown;
+}
+
+.login_style
+{
+    border:2px solid black;
+    text-align:center;
+    background-color: burlywood;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.text_style
+{
+    width:300px;
+    border-radius: 15px;
+}
+
+.footer-style
+{
+    background-color:black;
+}
+
+.dataTableStyle
+{
+    border:2px solid black;
+    text-align:center;
+    background-color:antiquewhite;
+    padding: 30px;
+    border-radius: 10px;
+}
